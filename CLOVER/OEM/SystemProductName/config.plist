@@ -298,6 +298,8 @@
 		<integer>0</integer>
 		<key>#XMPDetection</key>
 		<string>-1</string>
+		<key>CustomLogo</key>
+		<false/>
 		<key>Debug</key>
 		<false/>
 		<key>DefaultVolume</key>
@@ -653,6 +655,20 @@
 		<dict>
 			<key>Entries</key>
 			<array>
+				<dict>
+					<key>Disabled</key>
+					<false/>
+					<key>Hidden</key>
+					<false/>
+					<key>Image</key>
+					<string>os_mageia</string>
+					<key>Path</key>
+					<string>\EFI\MAGEIA\GRUBX64.efi</string>
+					<key>Title</key>
+					<string>Mageia Linux</string>
+					<key>Type</key>
+					<string>Linux</string>
+				</dict>
 				<dict>
 					<key>AddArguments</key>
 					<string>-v</string>
