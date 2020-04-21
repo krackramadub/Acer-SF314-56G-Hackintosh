@@ -9,12 +9,12 @@ Mojave 10.14.6
 Work:
 - Sound, default speaker & headphone jack
 - Func keys (Fn):
-				- Off / On screen
-				- Off / On touchpad
-				- Off / On keyboard backlight
-				- Off / On volume
-				- Vol-
-				- Vol+
+	- Off / On screen
+	- Off / On touchpad
+	- Off / On keyboard backlight
+	- Off / On volume
+	- Vol-
+	- Vol+
 - Touchpad (only clicks & mouse control)
 - HDMI video output
 - Bluethooth
