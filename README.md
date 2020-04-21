@@ -25,6 +25,7 @@ Not working:
 - Microphones
 - WIFI
 - Brightness controller
+- CardReader
 
 Not tested:
 - Hibernation
