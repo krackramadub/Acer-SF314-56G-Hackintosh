@@ -1,7 +1,8 @@
 Spec:
+
 	Name	:	Acer Swift 3 SF314-56G 
-	CPU		: 	Core™i7-8565U
-	GPU		: 	UHD620 + GeForce® MX150
+	CPU	: 	Core™i7-8565U
+	GPU	: 	UHD620 + GeForce® MX150
 	Audio	: 	ALC256
 	
 Mojave 10.14.6
