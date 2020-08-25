@@ -18,14 +18,14 @@ Work:
 	- Vol+
 - Touchpad (only clicks & mouse control)
 - HDMI video output
-- Bluethooth
+- Bluethooth work if you reboot from win
+- WIFI (itlwm + HeliPort) <a href="https://github.com/OpenIntelWireless/itlwm">Link</a>
+- CardReader
 
 
 Not working:
 - Microphones
-- WIFI
 - Brightness controller
-- CardReader
 
 Not tested:
 - Hibernation
